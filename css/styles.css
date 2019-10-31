@@ -1,5 +1,14 @@
-.main{
-    text-align: center;
-    font-size: 25px;
-    padding: 30px;
+.header{
+    font-weight: 700;
+    background-color: red;
+    color: black;
+}
+a{
+    color: black;
+}
+h3.text-muted{
+    color: black;
+}
+a.btn.btn-lg.btn-danger{
+color: black;
 }
