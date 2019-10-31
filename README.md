@@ -13,11 +13,19 @@ These instructions will get you a copy of the project up and running on your loc
 * Bootstrap
 * HTML
 * CSS
+* Ninja coding skills
+
+## Check it out here
+
+    Add link
+
 
 ### Authors
+
 Marcel - Williams - Epicodus - Portland - Oregon
 
-#### Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+### Acknowledgments
+
+Cheers to anyone whose code was used for inspiration
+
+#### Copyright license
