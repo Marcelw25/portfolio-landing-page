@@ -19,7 +19,12 @@ div.jumbotron {
     width: -webkit-fill-available;
     background: wheat;
   }
-
-div.container {
+  div.container {
     text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px ;
+}
+.card{
 }
