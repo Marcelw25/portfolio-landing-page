@@ -13,11 +13,11 @@ a.btn.btn-lg.btn-danger{
 color: black;
 }
 div.jumbotron {
-    background-size: cover;
+    background-size: contain;
     padding-top: 20%;
     padding-bottom: 20%;
     width: -webkit-fill-available;
-    background: wheat;
+    background: url('/img/altitude-clouds-daylight-1450082.jpg') no-repeat center center;
   }
   div.container {
     text-align: center;
