@@ -1,35 +1,31 @@
 .header{
     font-weight: 700;
-    background-color: red;
-    color: black;
+    background-color: #65c8fb;
+    color: #5A483A;
 }
 a{
-    color: black;
+    color: #5A483A;
 }
+
 h3.text-muted{
     color: black;
 }
-a.btn.btn-lg.btn-danger{
-color: black;
-}
-div.jumbotron {
-    background-size: contain;
+
+
+.jumbotron {
+    background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
-    width: -webkit-fill-available;
-    background: url('/img/altitude-clouds-daylight-1450082.jpg') no-repeat center center;
+    background-color:#3a4c5a ;
+    color: #65c8fb;
   }
   div.container {
     text-align: center;
-    width: auto;
 }
-img{
-    height: 230px;
-    width: 250px ;
+
+.about-me{
+    text-align: center;
 }
-.card{
-    float: right;
-}
-.mx-lg-n5{
-    display: flex;
+.row{
+    border: 5px solid #3a4c5a;
 }
