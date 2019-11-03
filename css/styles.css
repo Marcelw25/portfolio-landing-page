@@ -21,10 +21,15 @@ div.jumbotron {
   }
   div.container {
     text-align: center;
+    width: auto;
 }
 img{
-    height: 300px;
-    width: 300px ;
+    height: 230px;
+    width: 250px ;
 }
 .card{
+    float: right;
+}
+.mx-lg-n5{
+    display: flex;
 }
