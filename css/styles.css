@@ -12,3 +12,14 @@ h3.text-muted{
 a.btn.btn-lg.btn-danger{
 color: black;
 }
+div.jumbotron {
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    width: -webkit-fill-available;
+    background: wheat;
+  }
+
+div.container {
+    text-align: center;
+}
