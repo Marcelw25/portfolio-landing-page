@@ -1,11 +1,11 @@
 
 # Marcel's Landing Page
 
-This will be my first landing page.
+This will be my first landing page and portfolio;
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project will included html,css,bootstrap, git and github and a lot more awesome skills that I learned in my first 3 weeks at Epicodus. This website will include some of the projects that I have worked on and a  brief description about me. I hope you enjoy the site!
 
 
 ### Built With
@@ -29,6 +29,8 @@ Marcel - Williams - Epicodus - Portland - Oregon
 Cheers to Epicodus
 
 #### Copyright license
+
+MIT License
 
 Copyright (c) 2019 {Marcel Williams}
 
