@@ -4,7 +4,7 @@
     color: #5A483A;
 }
 a{
-    color: #5A483A;
+    color: #3a4c5a;
 }
 
 h3.text-muted{
@@ -29,10 +29,13 @@ h3.text-muted{
 .row{
     border: 5px solid #3a4c5a;
 }
-img{
-    height: 400px;
-    width: 400px;
-}
+
 .images{
     display: inline;
+}
+.img-thumbnail{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    margin: 5px;
 }
