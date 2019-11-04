@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Built With
 
-* Bootstrap
 * HTML
 * CSS
+* Bootstrap
 * Ninja coding skills
 
 ## Check it out here
@@ -26,6 +26,10 @@ Marcel - Williams - Epicodus - Portland - Oregon
 
 ### Acknowledgments
 
-Cheers to anyone whose code was used for inspiration
+Cheers to Epicodus
 
 #### Copyright license
+
+Copyright (c) 2019 {Marcel Williams}
+
+
