@@ -18,8 +18,7 @@ h3.logo {
 
 ol li {
   float: left;
-}
-hr {
+  font-size: 20px;
 }
 
 .jumbotron {
@@ -35,6 +34,8 @@ div.container {
 
 .about-me {
   text-align: center;
+  font-size: 34px;
+
 }
 .row {
   border: 5px solid #3a4c5a;
