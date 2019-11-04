@@ -1,56 +1,61 @@
-.header{
-    font-weight: 700;
-    background-color: #65c8fb;
-    color: #5A483A;
+.header {
+  font-weight: 700;
+  background-color: #65c8fb;
+  color: #5a483a;
 }
-a{
-    color: #3a4c5a;
-}
-
-h3.text-muted{
-    color: #3a4c5a;
+a {
+  color: #3a4c5a;
 }
 
-h3.logo{
-    height: 50px;
-    color: #3a4c5a;
+h3.text-muted {
+  color: #3a4c5a;
 }
 
+h3.logo {
+  height: 50px;
+  color: #3a4c5a;
+}
+
+ol li {
+  float: left;
+}
+hr {
+}
 
 .jumbotron {
-    background-size: cover;
-    padding-top: 20%;
-    padding-bottom: 20%;
-    background-color:#3a4c5a ;
-    color: #65c8fb;
-  }
-  div.container {
-    text-align: center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-color: #3a4c5a;
+  color: #65c8fb;
+}
+div.container {
+  text-align: center;
 }
 
-.about-me{
-    text-align: center;
+.about-me {
+  text-align: center;
 }
-.row{
-    border: 5px solid #3a4c5a;
+.row {
+  border: 5px solid #3a4c5a;
 }
 
-.images{
-    display: inline;
+.images {
+  display: inline;
 }
-.img-thumbnail{
-    height: 400px;
-    width: 400px;
-    padding: 20px;
-    margin: 5px;
+.img-thumbnail {
+  height: 400px;
+  width: 400px;
+  padding: 20px;
+  margin: 5px;
 }
-.card img{
-width: 300px;
-height: 200px;
+.card img {
+  width: 300px;
+  height: 200px;
 }
-em{
-    color: #3a4c5a;
+em {
+  color: #3a4c5a;
 }
-body{
-    font-family:'Big Shoulders Display', cursive;
+body {
+  font-family: "Big Shoulders Display", cursive;
 }
