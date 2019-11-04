@@ -32,6 +32,6 @@ Cheers to Epicodus
 
 MIT License
 
-Copyright (c) 2019 {Marcel Williams}
+Copyright (c) 2019 Marcel Williams
 
 
