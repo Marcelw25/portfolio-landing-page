@@ -29,3 +29,10 @@ h3.text-muted{
 .row{
     border: 5px solid #3a4c5a;
 }
+img{
+    height: 400px;
+    width: 400px;
+}
+.images{
+    display: inline;
+}
