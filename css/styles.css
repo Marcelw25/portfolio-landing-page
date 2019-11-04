@@ -8,7 +8,12 @@ a{
 }
 
 h3.text-muted{
-    color: black;
+    color: #3a4c5a;
+}
+
+h3.logo{
+    height: 50px;
+    color: #3a4c5a;
 }
 
 
@@ -42,4 +47,10 @@ h3.text-muted{
 .card img{
 width: 300px;
 height: 200px;
+}
+em{
+    color: #3a4c5a;
+}
+body{
+    font-family:'Big Shoulders Display', cursive;
 }
