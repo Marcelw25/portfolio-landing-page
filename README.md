@@ -14,9 +14,10 @@ This project will included html,css,bootstrap, git and github and a lot more awe
 * Copy the link within the clone
 * Open the terminal.
 * Change the current working directory to the location where you want the cloned directory to be made.
-* Type git clone, and then paste the URL you copied in Step 
-* $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* Type git clone, and then paste the URL you copied.
+* $ git clone https://github.com/NICKNAME/YOUR-REPOSITORY
 * Press Enter and the local clone will be created.
+* Open folder within your text editor.
 * Make some changes to the code within your text editor.
 * Open the folder and open your index.html file with Google Chrome!
 
